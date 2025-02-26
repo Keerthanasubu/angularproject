@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/Maddy23032/dynamic-form-table.git
+   git clone 
    
 
 2. Navigate to the project directory:
